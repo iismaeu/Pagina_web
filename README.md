@@ -1,2 +1,2 @@
 # pagina_web
-pagina web ficticia feita com HTML5 e CSS3 em conjunto com framework W3.CSS
+Página web ficticia de curso responsiva feita em HTML5 e CSS3 com framework W3.CSS
